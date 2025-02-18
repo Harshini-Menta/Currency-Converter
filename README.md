@@ -44,6 +44,7 @@ This is a simple Currency Converter program built in Java that allows users to c
 
 ## Sample Output
 
+```text
 1. Rupee
 2. Dollar
 3. Euro
@@ -86,4 +87,3 @@ Enter the amount:
 
 1 Euro = 1.02 Dollar
 200 Euro = 204.0 Dollar
-
